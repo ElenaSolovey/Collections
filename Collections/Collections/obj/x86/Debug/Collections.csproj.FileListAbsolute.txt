@@ -1,0 +1,6 @@
+/Users/Alena/Projects/Collections/Collections/bin/Debug/Collections.exe
+/Users/Alena/Projects/Collections/Collections/bin/Debug/Collections.pdb
+/Users/Alena/Projects/Collections/Collections/obj/x86/Debug/Collections.csprojAssemblyReference.cache
+/Users/Alena/Projects/Collections/Collections/obj/x86/Debug/Collections.csproj.CoreCompileInputs.cache
+/Users/Alena/Projects/Collections/Collections/obj/x86/Debug/Collections.exe
+/Users/Alena/Projects/Collections/Collections/obj/x86/Debug/Collections.pdb
